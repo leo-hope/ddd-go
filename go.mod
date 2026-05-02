@@ -1,3 +1,3 @@
-module github.com/runssnail/ddd-go
+module github.com/leo-hope/ddd-go
 
 go 1.25.5

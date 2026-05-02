@@ -33,15 +33,15 @@ Go 语言版 DDD（领域驱动设计）框架，提供 CQRS 风格的命令总�
 ### 使用方式
 
 ```bash
-go get github.com/runssnail/ddd-go
+go get github.com/leo-hope/ddd-go
 ```
 
 **初始化总线（以应用启动为例）：**
 
 ```go
 import (
-    "github.com/runssnail/ddd-go/common"
-    "github.com/runssnail/ddd-go/core"
+    "github.com/leo-hope/ddd-go/common"
+    "github.com/leo-hope/ddd-go/core"
 )
 
 eventBus := core.NewEventBus()

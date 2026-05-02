@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/runssnail/ddd-go/common"
-	"github.com/runssnail/ddd-go/core"
+	"github.com/leo-hope/ddd-go/common"
+	"github.com/leo-hope/ddd-go/core"
 )
 
 // ── Domain types ──────────────────────────────────────────────────────────────

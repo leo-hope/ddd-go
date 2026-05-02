@@ -3,7 +3,7 @@ package core
 import (
 	"log/slog"
 
-	"github.com/runssnail/ddd-go/common"
+	"github.com/leo-hope/ddd-go/common"
 )
 
 // EventExceptionHandler handles errors produced by event handlers.

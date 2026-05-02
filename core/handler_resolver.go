@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/runssnail/ddd-go/common"
+	"github.com/leo-hope/ddd-go/common"
 )
 
 // HandlerResolver looks up the Handler registered for a given command.

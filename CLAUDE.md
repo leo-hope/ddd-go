@@ -18,7 +18,7 @@ gofmt -w .
 
 ## Architecture
 
-This is a Go library (`github.com/runssnail/ddd-go`) with no external dependencies that provides DDD building blocks in two packages.
+This is a Go library (`github.com/leo-hope/ddd-go`) with no external dependencies that provides DDD building blocks in two packages.
 
 ### `common/` — Domain primitives
 

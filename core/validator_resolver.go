@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/runssnail/ddd-go/common"
+	"github.com/leo-hope/ddd-go/common"
 )
 
 // ValidatorResolver resolves the validator(s) for a given command.
