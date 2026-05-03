@@ -1,6 +1,6 @@
 # ddd-go
 
-Go 语言版 DDD（领域驱动设计）框架，提供 CQRS 风格的命令总线、事件总线及配套领域原语。具体示例见 [ddd-go-examples](https://github.com/leo-hope/ddd-go-examples)。
+Go 语言版 DDD（领域驱动设计）框架，提供 CQRS 风格的命令总线、事件总线及配套领域原语。具体示例见 [ddd-go-examples](https://github.com/leo-hope/ddd-go-examples)。Java 版本见：[ddd](https://github.com/leo-hope/ddd)
 
 * [架构风格](#架构风格)
 * [使用方式](#使用方式)
